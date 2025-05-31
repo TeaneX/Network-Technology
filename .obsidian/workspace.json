@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HI/Untitled.md",
+                "file": "Networking/Networking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Networking"
             }
           }
         ]
@@ -168,8 +168,8 @@
   },
   "active": "d123c8174ddc89af",
   "lastOpenFiles": [
-    "HI/Untitled.md",
-    "HI",
+    "Networking/Networking.md",
+    "Networking",
     "nethsara'",
     "hp.md",
     "hi.md",
