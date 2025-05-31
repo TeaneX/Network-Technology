@@ -1,3 +1,9 @@
+<br clear="both">
+
+<div align="center">
+  <img height="300" src="https://th.bing.com/th/id/R.2e2b652194c9d4045bac5654c5a4d174?rik=X%2bRPMJXvPQ2ZIg&pid=ImgRaw&r=0"  />
+</div>
+
 # Network Technology Write-Up
 
 This repository contains a comprehensive write-up on the subject of **Network Technology**, intended to serve as a study resource, reference material, or foundational document for further research and development in networking.
